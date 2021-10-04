@@ -7,3 +7,7 @@ Based on "Algolia, Get Started!" at https://www.algolia.com/apps/UHJDGDH03I/onbo
 
 Algolia Data Formatting Video at https://play.vidyard.com/qxNqBfwv5pJ4EKLz6FYhQw?utm_medium=page_link&utm_source=dashboard&autoplay=2
 
+
+## 100 - Introduction
+
+Algolia is Search-as-a-Service
